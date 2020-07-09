@@ -10,7 +10,6 @@ let text = prompt("Please enter your text", "Once upon a time...");
 console.log("this works?")
 //const deepai = require('deepai'); // OR include deepai.min.js as a script tag in your HTML
 deepai.setApiKey('85b4427e-815e-4efd-99e2-de892b8f2d22');
-
 (async function() {
     var resp = await deepai.callStandardApi("text-generator", {
             text: text,
