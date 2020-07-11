@@ -2,7 +2,6 @@
 //     https://www.npmjs.com/package/deepai
 // All examples use JS async-await syntax, be sure to call the API inside an async function.
 //     Learn more about async-await here: https://javascript.info/async-await
-
 // Example posting a text URL:
 
 let text = prompt("Please enter your text", "Once upon a time...");
