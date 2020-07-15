@@ -44,9 +44,6 @@ deepai.setApiKey('85b4427e-815e-4efd-99e2-de892b8f2d22');
 
 
 
-
-
-
 // Create a request variable and assign a new XMLHttpRequest object to it.
 //var request = new XMLHttpRequest()
 
